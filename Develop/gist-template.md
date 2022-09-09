@@ -7,6 +7,8 @@ Introductory paragraph (replace this with your text)
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
 ## Table of Contents
+Each section that describes a component should include more than just one sentence explaining what it does. It should also include a code snippet of that particular component and some examples that meet the requirements of that component.
+
 
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
