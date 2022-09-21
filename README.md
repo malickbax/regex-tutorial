@@ -45,6 +45,6 @@ Bracket expressions indicate single characters. The characters are identified wi
 The regex for our email address pattern example contains greedy operators `+` and `{}` which allow our matches to expand as far as possible through the provided text.
 
 ## Author
-**Malick Ba**
+**Malick Ba** Software Engineer based in Virginia, USA.
 
-If you have any questions, please feel free to post them as a comment or visit my [GitHub page](https://github.com/malickbax)  for more projects.
+For more projects, please visit my [GitHub page](https://github.com/malickbax)
